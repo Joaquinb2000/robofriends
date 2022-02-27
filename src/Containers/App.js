@@ -3,7 +3,7 @@ import CardList from "../Components/CardList";
 import SearchBar from '../Components/SearchBar';
 import Scroll from '../Components/Scroll'
 import './App.css';
-import Btn from '../Components/Btn'
+
 
 class App extends React.Component{
     constructor(){
@@ -25,18 +25,6 @@ class App extends React.Component{
         this.setState({searchfield: event.target.value})
     }
 
-    onClick=()=>{
-        if (this.state.btn===1){
-            this.setState({btn:0});
-            this.setState({showNaughty: null});
-        } 
-
-        else{  
-            this.setState({btn: 1});
-            this.setState({showNaughty: image});
-        }
-    }
-
     
     render () {
         const {robots, searchfield, btn}= this.state;
@@ -53,7 +41,6 @@ class App extends React.Component{
                 <Scroll>
                     <CardList robots= { filterRobots } />
                 </Scroll>
-                <Btn click={this.onClick}/>
             </div>
         );
     }
