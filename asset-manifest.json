@@ -1,26 +1,16 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.4362059e.chunk.css",
-    "main.js": "/robofriends/static/js/main.9d8ef99c.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.9d8ef99c.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.df0ece55.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.df0ece55.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/robofriends/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.61082d71.chunk.js": "/robofriends/static/js/2.61082d71.chunk.js",
-    "static/js/2.61082d71.chunk.js.map": "/robofriends/static/js/2.61082d71.chunk.js.map",
-    "static/js/3.3b49fe3e.chunk.js": "/robofriends/static/js/3.3b49fe3e.chunk.js",
-    "static/js/3.3b49fe3e.chunk.js.map": "/robofriends/static/js/3.3b49fe3e.chunk.js.map",
+    "main.css": "/robofriends/static/css/main.04efb5d3.css",
+    "main.js": "/robofriends/static/js/main.91df58f6.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/robofriends/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/robofriends/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.4362059e.chunk.css.map": "/robofriends/static/css/main.4362059e.chunk.css.map",
-    "static/js/2.61082d71.chunk.js.LICENSE.txt": "/robofriends/static/js/2.61082d71.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robofriends/static/media/SEGA.47b4bfa9.woff"
+    "main.04efb5d3.css.map": "/robofriends/static/css/main.04efb5d3.css.map",
+    "main.91df58f6.js.map": "/robofriends/static/js/main.91df58f6.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.df0ece55.js",
-    "static/css/2.6d7c7915.chunk.css",
-    "static/js/2.61082d71.chunk.js",
-    "static/css/main.4362059e.chunk.css",
-    "static/js/main.9d8ef99c.chunk.js"
+    "static/css/main.04efb5d3.css",
+    "static/js/main.91df58f6.js"
   ]
 }
